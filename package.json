@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/Ayron0/generation-exercicios-typescript/issues"
   },
-  "homepage": "https://github.com/Ayron0/generation-exercicios-typescript#readme"
+  "homepage": "https://github.com/Ayron0/generation-exercicios-typescript#readme",
+  "dependencies": {
+    "@types/node": "^24.3.0",
+    "install": "^0.13.0",
+    "readline-sync": "^1.4.10"
+  }
 }
